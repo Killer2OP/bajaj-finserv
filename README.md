@@ -1,4 +1,4 @@
-# Bajaj Finserv Health Dev Challenge
+# Bajaj Finserv Challenge
 
 ## Project Setup
 
